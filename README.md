@@ -1,1 +1,0 @@
-# CloudComputing-AWS-PhotoGallery-HTML-and-Lambda-functions
